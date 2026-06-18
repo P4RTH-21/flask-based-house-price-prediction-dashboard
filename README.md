@@ -10,6 +10,9 @@ A Flask-based Machine Learning web application that predicts California house pr
 - Responsive Dashboard UI
 - Real-time House Price Prediction
 
+  <img width="1112" height="897" alt="image" src="https://github.com/user-attachments/assets/2d639d82-61dc-49d7-917e-bb835f8de213" />
+
+
 ## Technologies Used
 
 - Python
