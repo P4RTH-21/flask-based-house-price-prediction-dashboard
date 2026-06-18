@@ -40,7 +40,11 @@ HousePricePredictor/
 └── static/
     └── style.css
 ```
+## Note
 
+The model.pkl and pipeline.pkl files are not included in this repository due to GitHub file size limitations.
+
+You can download these files from my previous repository and place them in the project's root directory:
 ## Installation
 
 ```bash
